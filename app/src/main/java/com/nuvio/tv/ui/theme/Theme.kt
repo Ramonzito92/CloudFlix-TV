@@ -33,8 +33,8 @@ val LocalNuvioExtendedColors = staticCompositionLocalOf {
         backgroundCard = Color(0xFF242424),
         textSecondary = Color(0xFFB3B3B3),
         textTertiary = Color(0xFF808080),
-        focusRing = ThemeColors.Purple.focusRing,
-        focusBackground = ThemeColors.Purple.focusBackground,
+        focusRing = Color(0xFFA855F7),
+        focusBackground = Color(0x33A855F7),
         rating = Color(0xFFFFD700)
     )
 }
